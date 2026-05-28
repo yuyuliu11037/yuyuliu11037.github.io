@@ -44,7 +44,7 @@ Selected Publications
   </div>
 </div>
 
-A full list is available on the [Publications](/publications/) page or on my [Google Scholar](https://scholar.google.com/citations?user=cuL8QqUAAAAJ) profile.
+A full list is available on my [Google Scholar](https://scholar.google.com/citations?user=cuL8QqUAAAAJ) profile.
 
 News
 ======
