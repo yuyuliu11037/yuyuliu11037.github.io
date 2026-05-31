@@ -11,7 +11,7 @@ I am a first year Ph.D. student in Computer Science at Stony Brook University, a
 
 My research interests lie in machine learning, natural language processing (NLP) and computational biology. In particular, I work on LLM reasoning, LLM agentic system and clinical data modeling.
 
-Selected Publications
+Research
 ======
 
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1.5em;">
