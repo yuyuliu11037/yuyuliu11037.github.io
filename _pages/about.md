@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first year Ph.D. student in Computer Science at Stony Brook University, advised by [Tengfei Ma](https://sites.google.com/site/matf0123/). Before starting my Ph.D., I received my B.S. in Mathematics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2024.
 
-My research interests lie in machine learning, natural language processing (NLP) and computational biology. In particular, I work on LLM reasoning, LLM agentic system and clinical data modeling.
+My research interests lie in machine learning, natural language processing (NLP) and computational biology. Currently, I'm working on LLM reasoning, LLM agentic memory systems.
 
 Research
 ======
