@@ -9,10 +9,19 @@ redirect_from:
 
 I am a second year Ph.D. student in Computer Science at Stony Brook University, advised by [Tengfei Ma](https://sites.google.com/site/matf0123/). Before starting my Ph.D., I received my B.S. in Mathematics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2024.
 
-My research interests lie in machine learning, natural language processing (NLP) and computational biology. Currently, I'm working on LLM reasoning, LLM agentic memory systems.
+My research interests lie in machine learning, natural language processing (NLP) and time series foundation models (TSFMs). Currently, I'm working on LLM agentic memory systems and agentic system for TSFMs.
 
 Research
 ======
+
+<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1.5em;">
+  <img src="/images/GraCiLs.png" alt="GraCiLs figure" style="width: 350px; flex-shrink: 0;">
+  <div>
+    <strong>Multivariate Time Series Root Cause Analysis via Granger Causal Discovery in Latent Space</strong><br>
+    <em><u>Yuyu Liu</u>, Xin Wang, Chandra Reddy, Wesley M. Gifford, Tengfei Ma</em><br><br>
+    Preprint<br>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1.5em;">
   <img src="/images/hyperguide.png" alt="Paper 1 figure" style="width: 350px; flex-shrink: 0;">
@@ -48,6 +57,9 @@ A full list is available on my [Google Scholar](https://scholar.google.com/citat
 
 News
 ======
+- **10/2026**: Gave a talk on hyperbolic modeling of EHR and language for efficient reasoning at SIAM NNP 2026 (Rutgers University).
+
+- **7/2026**: Attended ACL 2026 in San Diego and presented our poster on [HypEHR](https://arxiv.org/abs/2604.21027).
 - **5/2026**: One paper about single data imputation is accepted by ACM BCB 2026.
 - **4/2026**: One paper about hyperbolic EHR modeling for EHR-QA is accepted by ACL2026 (Findings).
 - **8/2025**: Started Ph.D.
